@@ -11,10 +11,10 @@
 </p>
 
 
-# T250 – World's Fastest Open-Source 3D Printer
+# T250 – World's Fastest Source-Available 3D Printer
 
 The **T250** is a next-generation, high-performance 3D printer built from the ground up for speed, reliability, and print quality.  
-With verified real-world acceleration of up to **250,000 mm/s²** and sustained print speeds exceeding **1,000 mm/s**, the T250 sets a new benchmark in open-source high-speed 3D printing.
+With verified real-world acceleration of up to **250,000 mm/s²** and sustained print speeds exceeding **1,000 mm/s**, the T250 sets a new benchmark in source-available high-speed 3D printing.
 
 > ⚠️ This is not your average printer project. The T250 is designed for experienced builders and performance enthusiasts.
 
@@ -23,7 +23,7 @@ With verified real-world acceleration of up to **250,000 mm/s²** and sustaine
 - Prints a **Speedboat in under 2 minutes**  
 - Produces **high-quality parts 4× faster** compared to a Bambu Printer
 - Currently ranks **#1 on the world’s fastest printer [leaderboard](https://docs.google.com/spreadsheets/d/1lFiJi-X3Xm3hh3I9Ty9dfACMiBWxHFAOUeiU1km9m6I)**
-- And the best part: It’s **100% open-source**.  
+- And the best part: It’s **100% source-available**.  
   All resources needed to build your own T250 are available in this repository.
 
 ---
@@ -40,7 +40,7 @@ With verified real-world acceleration of up to **250,000 mm/s²** and sustaine
 - 📦 **Build Volume**: **192 × 212 × 175 mm**
 - 🌈 **Design**: Cable routing inside the frame, RGB lighting along the top frame, enclosure-ready layout
 - 🧑‍💻 **Firmware**: Based on THEOS / Klipper, optimized for high-speed printing
-- 🧾 **Open Source**: All files, configs, BOMs and documentation provided
+- 🧾 **Source Available**: All files, configs, BOMs and documentation provided
 
 ---
 
@@ -85,4 +85,4 @@ You are free to build, remix, and adapt the printers design as long as you give 
 
 ---
 
-**Ready to build the world's fastest open-source printer? Let's go.**
+**Ready to build the world's fastest source available printer? Let's go.**
